@@ -1,40 +1,150 @@
 <h1 align="center">Hey 👋, I'm Nitesh Yadav</h1>
 
-<h3 align="center">
-🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | ☕ Java Developer | 🌍 Open Source Contributor
-</h3>
-
 <p align="center">
-Building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through code.
+🚀 Software Developer | ☕ Java DSA Enthusiast | 🌍 Building Modern Web Apps
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<h1 align="center">
+Open Source Contributor
+</h1>
+
+<hr>
 
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NiteshYadav546&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
+</p>
+
+<hr>
+
+<h2 align="center">✨ Let's Connect ✨</h2>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
+<a href="NiteshYadav546"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge"></a>
+</p>
+
+<hr>
+
+# 🧠 About Me
+
+```javascript
+const nitesh = {
+  role: "MERN Stack Developer",
+  focus: ["React", "Node.js", "Java DSA"],
+  currently_learning: ["Spring Boot", "System Design"],
+  interests: ["AI", "Open Source", "Modern UI"],
+  looking_for: "Software Developer Internship"
+}
+```
+
+- 🎓 Final-Year B.Tech CSE Student
+- 💻 Software Developer & Java DSA Enthusiast
+- 🏆 Participant — Smart India Hackathon
+- ⚡ Open Source Contributor
+- 🚀 Passionate About Building Modern Web Applications
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 University Resource & Collaboration System
+
+- Developed a full-stack student collaboration platform
+- Integrated AI Mentor
+- Implemented real-time chat using Socket.io
+- Added admin dashboard
+- Responsive UI/UX
+
+### 🛠 Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
+🌐 Live Demo
+
+---
+
+## 🎥 Video Conferencing Platform
+
+- Real-time Video Calling
+- Chat & Screen Sharing
+- JWT Authentication
+- WebRTC Integration
+- Responsive Design
+
+### 🛠 Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `WebRTC`
+
+🌐 Live Demo
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ---
 
-```javascript
-const nitesh = {
-  role: "Full Stack Developer",
-  education: "B.Tech CSE",
-  languages: ["Java", "JavaScript"],
-  frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB"],
-  interests: ["AI", "Machine Learning", "Open Source"],
-  currentFocus: "Building Modern Web Applications",
-  dream: "AI Software Engineer in Europe"
-};
+## 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Frontend Developer Intern
+- 🏆 Smart India Hackathon Participant
+- ⚡ Code Rush Participant
+- 🌍 IAENG Member
+- 🚀 Built MERN Stack Projects
+
+---
+
+# 📜 Certifications
+
+- ☕ Java (Basic) Certification — HackerRank
+- 📘 ADCA Certification
+- 🏆 Smart India Hackathon Certificate
+- ⚡ Code Rush Certificate
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NiteshYadav546&show_icons=true&theme=tokyonight"/>
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshYadav546&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
