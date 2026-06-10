@@ -1,89 +1,64 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
----
-
-## 🚀 About Me
-
-💻 Passionate about Software Development and Problem Solving
-
-🌱 Currently learning:
-- MERN Stack
-- Spring Boot
-- System Design
-- Machine Learning
-
-🎯 Goal:
-- Become a Software Engineer
-- Build AI-powered applications
-- Work in Germany or Europe
-
-⚡ Fun Fact:
-I enjoy turning ideas into real-world projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- JavaScript
-- Python
-- C++
-
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-## 📌 Current Focus
-
-✔ Data Structures & Algorithms
-
-✔ Full Stack Development
-
-✔ Machine Learning
-
-✔ System Design
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+🚀 Full Stack Developer | 💻 Software Engineer | 🤖 AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+Passionate about building scalable web applications, solving complex problems, and leveraging Artificial Intelligence to create impactful solutions.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 👨‍💻 About Me
 
-📧 Email: yourmail@gmail.com
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🌍 Portfolio: Your Portfolio Link
+- 🎓 Computer Science Engineering Student
+- 💻 Skilled in Java, JavaScript, Python, and MERN Stack
+- 🌱 Currently learning System Design, Spring Boot, and Machine Learning
+- 🔍 Interested in Software Development, AI, and Cloud Technologies
+- 🎯 Goal: Become a World-Class Software Engineer
+- 🌍 Open to international opportunities and global collaborations
 
 ---
 
-### 💡 Quote
+### 🛠️ Tech Stack
 
-"Consistency beats talent when talent doesn't work hard."
+**Languages**
+`Java` `JavaScript` `Python` `C++`
+
+**Frontend**
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `Spring Boot`
+
+**Databases**
+`MongoDB` `MySQL`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Postman`
+
+---
+
+### 🚀 What I'm Working On
+
+- Full Stack Web Applications
+- Data Structures & Algorithms
+- AI & Machine Learning Projects
+- System Design & Backend Development
+
+---
+
+### 📈 Professional Motto
+
+> "Building technology that solves real-world problems and creates meaningful impact."
+
+---
+
+### 🌐 Connect With Me
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn: linkedin.com/in/your-profile
+
+🐙 GitHub: github.com/your-username
