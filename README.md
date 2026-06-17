@@ -153,7 +153,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
@@ -162,7 +165,6 @@ jobs:
           github_user_name: NiteshYadav546
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
