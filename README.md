@@ -4,7 +4,9 @@
 🚀 Software Developer | ☕ Java DSA Enthusiast | 🌍 Building Modern Web Apps
 </p>
 
-<h1 align="center">Open Source Contributor</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Java+DSA+Enthusiast;Open+Source+Contributor;Building+Modern+Web+Applications;Software+Developer+Intern" alt="Typing SVG" />
+</p>
 
 <hr>
 
