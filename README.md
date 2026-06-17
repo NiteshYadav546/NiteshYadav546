@@ -124,18 +124,18 @@ const nitesh = {
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshYadav546&theme=tokyo-night"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/NiteshYadav546/NiteshYadav546/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshYadav546&theme=tokyo-night"/>
 </p>
 
 ---
