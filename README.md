@@ -4,9 +4,7 @@
 🚀 Software Developer | ☕ Java DSA Enthusiast | 🌍 Building Modern Web Apps
 </p>
 
-<h1 align="center">
-Open Source Contributor
-</h1>
+<h1 align="center">Open Source Contributor</h1>
 
 <hr>
 
@@ -20,9 +18,9 @@ Open Source Contributor
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
+<a href="mailto:ynitesh9826@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
-<a href="NiteshYadav546"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge"></a>
+<a href="https://github.com/NiteshYadav546"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge"></a>
 </p>
 
 <hr>
@@ -41,7 +39,7 @@ const nitesh = {
 
 - 🎓 Final-Year B.Tech CSE Student
 - 💻 Software Developer & Java DSA Enthusiast
-- 🏆 Participant — Smart India Hackathon
+- 🏆 Smart India Hackathon Participant
 - ⚡ Open Source Contributor
 - 🚀 Passionate About Building Modern Web Applications
 
@@ -61,8 +59,6 @@ const nitesh = {
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-🌐 Live Demo
-
 ---
 
 ## 🎥 Video Conferencing Platform
@@ -77,8 +73,6 @@ const nitesh = {
 
 `React.js` `Node.js` `Express.js` `MongoDB` `WebRTC`
 
-🌐 Live Demo
-
 ---
 
 # 🛠 Tech Stack
@@ -89,15 +83,11 @@ const nitesh = {
 <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
----
-
 ## 🌐 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
-
----
 
 ## ⚙️ Backend & Tools
 
@@ -132,7 +122,6 @@ const nitesh = {
 <img src="https://github-readme-stats.vercel.app/api?username=NiteshYadav546&show_icons=true&theme=tokyonight"/>
 </p>
 
-
 ---
 
 # 📈 Contribution Graph
@@ -145,6 +134,12 @@ const nitesh = {
 
 # 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/NiteshYadav546/NiteshYadav546/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-![Snake animation](https://github.com/NiteshYadav546/NiteshYadav546/blob/output/github-contribution-grid-snake.svg)
+---
+
+<h3 align="center">
+✨ Code • Create • Innovate ✨
+</h3>
